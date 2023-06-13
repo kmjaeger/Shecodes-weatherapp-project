@@ -53,4 +53,8 @@ body {
   .search-form {
     margin-bottom: 20px;
   }
+
+  p {
+    padding:15px;
+  }
   
